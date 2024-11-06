@@ -1,4 +1,4 @@
 # Proyecto de prueba
 
-Modificado por: Gisell Anaya
-Le ayudo: El profesor :p
+- Modificado por: Gisell Anaya
+- No le ayudo nadie
